@@ -46,5 +46,5 @@ No exemplo acima, a palavra "carro" aparece 5 vezes, enquanto "aviao" aparece 2 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer pull requests para melhorar o projeto.
 
-## Licença
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/license/MIT).
+## Autor
+Desenvolvido por João Pedro Ferreira França da Silva como parte de um projeto acadêmico.
